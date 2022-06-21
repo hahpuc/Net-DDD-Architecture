@@ -1,0 +1,17 @@
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Infrastructure.deps.json
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Infrastructure.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Infrastructure.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.AssemblyInfo.cs
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/refint/BuderDinner.Infrastructure.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/ref/BuderDinner.Infrastructure.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Application.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Domain.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Application.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/bin/Debug/net6.0/BuderDinner.Domain.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/obj/Debug/net6.0/BuderDinner.Infrastructure.csproj.CopyComplete

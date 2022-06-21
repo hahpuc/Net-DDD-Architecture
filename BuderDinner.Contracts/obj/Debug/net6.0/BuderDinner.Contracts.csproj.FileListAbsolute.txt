@@ -1,0 +1,12 @@
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/bin/Debug/net6.0/BuderDinner.Contracts.deps.json
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/bin/Debug/net6.0/BuderDinner.Contracts.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/bin/Debug/net6.0/BuderDinner.Contracts.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.csproj.AssemblyReference.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.AssemblyInfoInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.AssemblyInfo.cs
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/refint/BuderDinner.Contracts.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/BuderDinner.Contracts.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Contracts/obj/Debug/net6.0/ref/BuderDinner.Contracts.dll

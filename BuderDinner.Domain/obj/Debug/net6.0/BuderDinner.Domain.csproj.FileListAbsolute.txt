@@ -1,0 +1,12 @@
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/bin/Debug/net6.0/BuderDinner.Domain.deps.json
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/bin/Debug/net6.0/BuderDinner.Domain.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/bin/Debug/net6.0/BuderDinner.Domain.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.csproj.AssemblyReference.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.AssemblyInfoInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.AssemblyInfo.cs
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.csproj.CoreCompileInputs.cache
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/refint/BuderDinner.Domain.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/BuderDinner.Domain.pdb
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Domain/obj/Debug/net6.0/ref/BuderDinner.Domain.dll

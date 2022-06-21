@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuderDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BuderDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "BuderDinner.Infrastructure.dll": {}
+        }
+      },
+      "BuderDinner.Application/1.0.0": {
+        "dependencies": {
+          "BuderDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BuderDinner.Application.dll": {}
+        }
+      },
+      "BuderDinner.Domain/1.0.0": {
+        "runtime": {
+          "BuderDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuderDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuderDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuderDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
