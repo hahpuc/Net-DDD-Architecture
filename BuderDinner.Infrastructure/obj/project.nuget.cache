@@ -1,16 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "B0mbPMgLWVkDJdiO98nAoWk/lV+WyOMWXfqkLteVlAfTt/cb+cqdskz63+8EIrKSVcdNCX+Umq6n42kg3YmEEg==",
+  "dgSpecHash": "Wc5/b9QfPvE85vlMn3yvoVL/L4h1XoxU+BJXgLDZKK71PIXb4IaHFgMiAOEQuEXuL0OmtEzMZaaqYKpcQ4icTw==",
   "success": true,
   "projectFilePath": "/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/BuderDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/longnguyen/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.options.configurationextensions/6.0.0/microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.abstractions/6.20.0/microsoft.identitymodel.abstractions.6.20.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.20.0/microsoft.identitymodel.jsonwebtokens.6.20.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.logging/6.20.0/microsoft.identitymodel.logging.6.20.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.tokens/6.20.0/microsoft.identitymodel.tokens.6.20.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/system.identitymodel.tokens.jwt/6.20.0/system.identitymodel.tokens.jwt.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
