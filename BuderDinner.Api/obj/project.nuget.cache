@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P7S0Wqr8qy+G/L1WkCHMgoDTT2jN/CXu1qFuAYH0zeLlKKQ+Io0ko/GmFHmHLZh85Ipb4dgqMTjfgZjCCz13cA==",
+  "dgSpecHash": "MjzcpVw+SxQcUvp2MpvXSk0lEe/tN8CHdEp9FdGH0lbHsd+F05v1EKurgOzH7NuQTYhGRihh6BHNPkRCfttlDQ==",
   "success": true,
   "projectFilePath": "/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/BuderDinner.Api.csproj",
   "expectedPackageFiles": [
@@ -55,7 +55,7 @@
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.caching.memory/2.2.0/microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.configuration.abstractions/2.2.0/microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection/2.2.0/microsoft.extensions.dependencyinjection.2.2.0.nupkg.sha512",
-    "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.2.0/microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencymodel/2.1.0/microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
     "/Users/longnguyen/.nuget/packages/microsoft.extensions.fileproviders.composite/2.2.0/microsoft.extensions.fileproviders.composite.2.2.0.nupkg.sha512",

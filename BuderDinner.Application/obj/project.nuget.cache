@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/KpxlsT6+VRFxs8FqoBI3IgBChy07Wm0FYLclCwTBrjA8jA/Hof4gIhGaEqVA4JixXO1EiFbnXhbaLcVWJkBqQ==",
+  "dgSpecHash": "ZJdWDRQYkemoEhc6EEak7t/02fs1n0hxzngd4VRBMgIzP9OD7r0JHI1vy6qtfCemgLdMNQpkjsfMsMUiN4lwWw==",
   "success": true,
   "projectFilePath": "/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Application/BuderDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
