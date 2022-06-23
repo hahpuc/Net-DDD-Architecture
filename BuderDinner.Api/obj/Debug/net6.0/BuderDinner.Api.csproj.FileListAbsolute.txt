@@ -38,3 +38,8 @@
 /Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
 /Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll

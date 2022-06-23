@@ -8,4 +8,8 @@
   <ItemGroup>
     <ProjectReference Include="..\BuderDinner.Application\BuderDinner.Application.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.20.0" />
+  </ItemGroup>
 </Project>

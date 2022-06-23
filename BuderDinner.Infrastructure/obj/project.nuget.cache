@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Gw6VVIROSsx27df3iuq35QQi24J0yPPAD1bTMDL9zvXGEGvGVoCy03zwaJIWW991qAsnsLUmMBN72wGMBIq3lw==",
+  "dgSpecHash": "B0mbPMgLWVkDJdiO98nAoWk/lV+WyOMWXfqkLteVlAfTt/cb+cqdskz63+8EIrKSVcdNCX+Umq6n42kg3YmEEg==",
   "success": true,
   "projectFilePath": "/Users/longnguyen/Desktop/DotNET/ArchitectureDDD/BuderDinner/BuderDinner.Infrastructure/BuderDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "/Users/longnguyen/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.abstractions/6.20.0/microsoft.identitymodel.abstractions.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.20.0/microsoft.identitymodel.jsonwebtokens.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.logging/6.20.0/microsoft.identitymodel.logging.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/microsoft.identitymodel.tokens/6.20.0/microsoft.identitymodel.tokens.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/system.identitymodel.tokens.jwt/6.20.0/system.identitymodel.tokens.jwt.6.20.0.nupkg.sha512",
+    "/Users/longnguyen/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
